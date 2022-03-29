@@ -7,8 +7,8 @@
 7: Thunderbolt
 8: Summon Zombie
 9: Mind Trick
-10: Dart
-11: Snare
+10: Snare
+11: Dart
 12: Leap
 13: Light
 14: Telekinesis
@@ -110,11 +110,11 @@
 110: Forcefield
 111: Ironflesh
 112: Transience
-113: Arcane Jammer
-114: Conjure Armour
+113: Conjure Armor
+114: Arcane Jammer
 115: Group Heal
 116: Meteor
-117: Firestorm
+117: Fire Breath
 118: Summon Phoenix
 119: Ice Age
 120: Wall of Frost
@@ -139,3 +139,69 @@
 139: Font of Vitality
 140: Font of Mana
 141: Forest of Thorns
+
+0: Mine
+0: Conjure Block
+0: Muffle
+0: Ward
+0: Evade
+0: Iceball
+0: Frost Barrier
+0: Charge
+0: Blinding Flash
+0: Super Jump
+0: Reversal
+0: Enrage
+0: Grapple
+0: Solid Core
+0: Divination
+0: Time Manipulator
+0: Magic Shield
+0: Pacifism
+0: Empowering Presence
+0: Mark Sacrifice
+0: Disintegration
+0: Combustion Rune
+0: Frost Step
+0: Permafrost
+0: Paralysis
+0: Stormcloud
+0: Shulker Bullet
+0: Curse of Undeath
+0: Dragon Fireball
+0: Withering Totem
+0: Vampirism
+0: Fangs
+0: Armor Piercing Missile
+0: Hunters Revenge
+0: Greater Telekinesis
+0: Vex Swarm
+0: Arcane lock
+0: Containment
+0: Guardian Beam
+0: Mirage
+0: Return
+0: Surface Teleport
+0: Advanced Return
+0: Time Travel
+0: Photosynthesis
+0: Satiety
+0: Greater Ward
+0: Ray of Purification
+0: Remove Curse
+0: Radiant Totem
+0: Firestorm
+0: Flamecather
+0: Chargable Strike
+0: Possession
+0: Curse of Enfeeblement
+0: Zombie Apocalypse
+0: Boulder
+0: Speed Time
+0: Slow Time
+0: Tribal Bless
+0: Scale bless
+0: Thief Bless
+0: Magical Offence
+0: Resurrection
+0: Celestial Smite
